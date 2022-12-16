@@ -8,7 +8,7 @@ const Footer = () => {
     <div id='footer' className='footer'>
       <div className='footer-menu'>
         <div>
-          <Link to="/contact">Market</Link>
+          <Link to="/market">Market</Link>
         </div>
         <div>
           <a href="/items">My Items</a>

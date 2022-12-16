@@ -11,72 +11,72 @@ const Showcase = () => {
             <div class="slider">
 	<div class="slide-track">
 		<div class="slide">
-        <div class="carr-title">Degen Toonz</div>
+        <div class="carr-title">Honda Civic 2017 - Red</div>
        <a href="https://delorean.markets/market"><img src="Images/1.png" height="150" width="240" alt="" /></a> 
 
 		</div>
 		<div class="slide">
-        <p class="carr-title">Bulls&Apes</p>
+        <p class="carr-title">Glasses</p>
         <a href="https://delorean.markets/market"><img src="Images/2.jpg" height="150" width="240" alt="" /></a>
 
 		</div>
 		<div class="slide">
-        <p class="carr-title">Fluf Project</p>
+        <p class="carr-title">Ford GT Supercar 2017 - Blue</p>
         <a href="https://delorean.markets/market)"><img src="Images/3.jpg" height="150" width="240" alt="" /></a>
 
 		</div>
 		<div class="slide">
-        <p class="carr-title">MA YC Project</p>
+        <p class="carr-title">Samsung Galaxy S5</p>
         <a href="https://delorean.markets/market"><img src="Images/4.jpg" height="150" width="240" alt="" /></a>
 
 		</div>
 		<div class="slide">
-        <p class="carr-title">Mob Ties</p>
+        <p class="carr-title">Northface Jacket (L) - Blue</p>
         <a href="https://delorean.markets/market"><img src="Images/5.jpg" height="150" width="240" alt="" /></a>
 
 		</div>
 		<div class="slide">
-        <p class="carr-title">Party Bear</p>
+        <p class="carr-title">Jordan 13s - Orange</p>
         <a href="https://delorean.markets/market"><img src="Images/6.jpg" height="150" width="240" alt="" /></a>
 
 		</div>
 		<div class="slide">
-        <p class="carr-title">Lazy Lions</p>
+        <p class="carr-title">MacBook Air 13.3</p>
         <a href="https://delorean.markets/market"><img src="Images/7.jpg" height="150" width="240" alt="" /></a>
 
 		</div>
 		<div class="slide">
-        <p class="carr-title">Prime Apes</p>
+        <p class="carr-title">iPhone 11</p>
         <a href="https://delorean.markets/market"><img src="Images/8.png" height="150" width="240" alt="" /></a>
 
 		</div>
 		<div class="slide">
-        <p class="carr-title">Cyber Brokers</p>
+        <p class="carr-title">Harry Potter series (used)</p>
         <a href="https://delorean.markets/market"><img src="Images/9.png" height="150" width="240" alt="" /></a>
 
 		</div>
 		<div class="slide">
-        <p class="carr-title">Inhabitas</p>
+        <p class="carr-title">Honda Civic 2017 - Red</p>
         <a href="https://delorean.markets/market"><img src="Images/1.png" height="150" width="240" alt="" /></a>
         
 		</div>
 		<div class="slide">
-        <p class="carr-title">Killa Bears</p>
+        <p class="carr-title">Glasses</p>
         <a href="https://delorean.markets/market"><img src="Images/2.jpg" height="150" width="240" alt="" /></a>
         
 		</div>
 		<div class="slide">
-        <p class="carr-title">ToyMories</p>
+        <p class="carr-title">Ford GT Supercar 2017 - Blue</p>
         <a href="https://delorean.markets/market"><img src="Images/3.jpg" height="150" width="240" alt="" /></a>
         
 		</div>
 		<div class="slide">
-        <p class="carr-title">Buzzies</p>
+        <p class="carr-title">Samsung Galaxy S5</p>
         <a href="https://delorean.markets/market"><img src="Images/4.jpg" height="150" width="240" alt="" /></a>
         
 		</div>
 		<div class="slide">
-        <p class="carr-title">CryptoMories</p>
+        <p class="carr-title">Samsung Galaxy S5</p>
         <a href="https://delorean.markets/market"><img src="Images/5.jpg" height="150" width="240" alt="" /></a>
         
 		</div>
@@ -87,72 +87,72 @@ const Showcase = () => {
 <div class="slider2">
 	<div class="slide-track2">
 		<div class="slide2">
-        <p class="carr-title">Degen Toonz</p>
+        <p class="carr-title">Jordan 13s - Orange</p>
         <a href="https://delorean.markets/market"><img src="Images/6.jpg" height="150" width="240" alt="" /></a>
         
 		</div>
 		<div class="slide2">
-        <p class="carr-title">Bulls&Apes</p>
+        <p class="carr-title">MacBook Air 13.3</p>
         <a href="https://delorean.markets/market"><img src="Images/7.jpg" height="150" width="240" alt="" /></a>
         
 		</div>
 		<div class="slide2">
-        <p class="carr-title">Fluf Project</p>
+        <p class="carr-title">iPhone 11</p>
         <a href="https://delorean.markets/market"><img src="Images/8.png" height="150" width="240" alt="" /></a>
         
 		</div>
 		<div class="slide2">
-        <p class="carr-title">MA YC Project</p>
+        <p class="carr-title">Harry Potter series (used)</p>
         <a href="https://delorean.markets/market"><img src="Images/9.png" height="150" width="240" alt="" /></a>
         
 		</div>
 		<div class="slide2">
-        <p class="carr-title">Mob Ties</p>
+        <p class="carr-title">Honda Civic 2017 - Red</p>
         <a href="https://delorean.markets/market"><img src="Images/1.png" height="150" width="240" alt="" /></a>
         
 		</div>
 		<div class="slide2">
-        <p class="carr-title">Party Bear</p>
+        <p class="carr-title">Glasses</p>
         <a href="https://delorean.markets/market"><img src="Images/2.jpg" height="150" width="240" alt="" /></a>
         
 		</div>
 		<div class="slide2">
-        <p class="carr-title">Lazy Lions</p>
+        <p class="carr-title">Ford GT Supercar 2017 - Blue</p>
         <a href="https://delorean.markets/market"><img src="Images/3.jpg" height="150" width="240" alt="" /></a>
         
 		</div>
 		<div class="slide2">
-        <p class="carr-title">Prime Apes</p>
+        <p class="carr-title">Samsung Galaxy S5</p>
         <a href="https://delorean.markets/market"><img src="Images/4.jpg" height="150" width="240" alt="" /></a>
         
 		</div>
 		<div class="slide2">
-        <p class="carr-title">Cyber Brokers</p>
+        <p class="carr-title">Samsung Galaxy S5</p>
         <a href="https://delorean.markets/market"><img src="Images/5.jpg" height="150" width="240" alt="" /></a>
         
 		</div>
 		<div class="slide2">
-        <p class="carr-title">Inhabitas</p>
+        <p class="carr-title">Jordan 13s - Orange</p>
         <a href="https://delorean.markets/market"><img src="Images/6.jpg" height="150" width="240" alt="" /></a>
         
 		</div>
 		<div class="slide2">
-        <p class="carr-title">Killa Bears</p>
+        <p class="carr-title">MacBook Air 13.3</p>
         <a href="https://delorean.markets/market"><img src="Images/7.jpg" height="150" width="240" alt="" /></a>
         
 		</div>
 		<div class="slide2">
-        <p class="carr-title">ToyMories</p>
+        <p class="carr-title">iPhone 11</p>
         <a href="https://delorean.markets/market"><img src="Images/8.png" height="150" width="240" alt="" /></a>
         
 		</div>
 		<div class="slide2">
-        <p class="carr-title">Buzzies</p>
+        <p class="carr-title">Harry Potter series (used)</p>
         <a href="https://delorean.markets/market"><img src="Images/9.png" height="150" width="240" alt="" /></a>
         
 		</div>
 		<div class="slide2">
-        <p class="carr-title">CryptoMories</p>
+        <p class="carr-title">Honda Civic 2017 - Red</p>
         <a href="https://delorean.markets/market"><img src="Images/1.jpg" height="150" width="240" alt="" /></a>
         
 		</div>

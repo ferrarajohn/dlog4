@@ -6,7 +6,7 @@ const Contact = () => {
     <div>
         <div className='sec-title mg2'> Contact Us</div>
         <div className='primary-card contact-card'>
-            Email : john@delorean.codes
+            Email: john@delorean.codes
         </div>
     </div>
   )
